@@ -8,9 +8,9 @@
  const https = require('https');
  
  //access token è il token di accesso a lunga durata, gettato manualmente e immesso nel codice; esso viene refreshato dal codice in via automatica
- const access_token = 'EAATOv8np5PoBAK64rwqZBsYQOzLq5gDAnBEnDCNFarUobi3DREZBzfRrbTYqUnbapfkfUDSrJGJXTfwAJhGMZChMzkR3m2y3ZAdjYT5tgjEN3R2CXKHsJwYwsF3Cw3uRokVi5xm2JI9BHLxgEGho5RaTtwFk8ALfYrEy4r7Ort4cks2Wc5Fh';
+ const access_token = '';
  //ObjectID rappresenta l'ID della pagina o dell'utente di cui vogliamo visualizzare le immagini
- const ObjectID = '101286595680806';
+ const ObjectID = '';
  
  const Width = '1920';
  const Height = '1280';
