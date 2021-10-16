@@ -1,0 +1,14 @@
+{
+  "name": "express-api",
+  "version": "1.0.0",
+  "description": "API che permette, attraverso l'uso di node.js ed express.js, di collegarsi alle API di Facebook per gettare una serie di immagini e selezionare l'immagine che si avvicina di più ad una data dimensione.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alessio Ferrari",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5"
+  }
+}
